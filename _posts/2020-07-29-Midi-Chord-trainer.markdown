@@ -20,6 +20,7 @@ The whole thing is plug'n play, or kind of.. You can see a short video demo in t
 
 
 [plug'n wait'n play]()
+
 [changing between modes of working]()
 
 
