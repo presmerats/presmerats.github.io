@@ -5,9 +5,14 @@ date:   2020-07-29 17:56:28 +0200
 categories: midi raspberrypi music
 ---
 
-This is my first post and I didn't have anything special to share but I noticed I'm a contributor to the `Arctic Code Vault` on `Github`. Yay! Or not? Well the thing is that they chose a very personal project of my own: my midi chord trainer project. So I find it nice to share with you what it does and how it works.
+![Arctic Vault](../../../../../../img/vault.jpg)
 
-![Arctic Vault](../../../../../../img/vault.png)
+
+This is my first post and I didn't have anything special to share but I noticed I'm a contributor to the `Arctic Code Vault` on `Github`. Yay! Or not? Well the thing is that they chose a very personal project of mine: my midi chord trainer project. So I find it nice to share with you what it does and how it works.
+
+
+![Rpi](../../../../../../img/rpimidi.jpg)
+
 
 Basically I wanted to memorize and practice piano chords on my midi controller keyboard and I found a way to get help from my Raspberry Pi. The Python code on the Raspberry Pi will throw at me questions about piano chords (you know the typical AbMa7 read A flat major seven) and it will handle the input notes (and other buttons pressed) to decide if my answer is correct or not. I added some options to switch the instrument, the type of chords and the way the sequence of chords is selected (random or others). Basically the typical midi stack running on Raspbian linux on the Pi will allow me to hear the notes and change the instrument. The rest is done by the Python code that leverages a deprecated library called [Mingus](https://bspaans.github.io/python-mingus/) (after the Jazz player and composer `Charles Mingus`)
 
@@ -25,3 +30,5 @@ The whole thing is plug'n play, or kind of.. You can see a short video demo in t
 
 
 Any impressions or comments are welcome! 
+
+
