@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arctic Code Vault contributor for Midi on the RapsberryPi"
+title:  "Having fun with Raspberry Pi and Midi controllers"
 date:   2020-08-05 17:56:28 +0200
 categories: midi raspberrypi music
 ---
