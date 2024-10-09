@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Google sheets viz of Youtube channels and videos"
+date:   2024-10-09 15:43:01 +0200
+categories: data visualization googlesheets 
+---
+
+![Arctic Vault](../../../../../../img/youtubespreadsheet.webp)
+###### Editorial credit: ginger_polina_bublik / Shutterstock.com
+
+
+In this post I'm showing a small data visualization that I created in a google spreasheet with data retrieved from Youtube API by a Google AppScript that is updated on a daily basis.
+
+
+<iframe  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSonTt1xJEUiY2NI357IgbYd73p21KchktroqqIvBblRvPYttTnVicDxef2OC2nmZWco8pSa9v0CY8X/pubchart?oid=760040628&format=interactive" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSonTt1xJEUiY2NI357IgbYd73p21KchktroqqIvBblRvPYttTnVicDxef2OC2nmZWco8pSa9v0CY8X/pubchart?oid=2039949862&format=interactive" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+TO BE CONTINUED...
+
+
+
