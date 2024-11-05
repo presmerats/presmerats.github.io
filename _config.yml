@@ -18,7 +18,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My personal blog
+title: presmerats portfolio
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Personal projects to share with anyone that is interested.
