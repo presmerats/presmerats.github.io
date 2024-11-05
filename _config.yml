@@ -8,6 +8,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# LOCAL SERVER
+# see https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+# and see https://jekyllrb.com/docs/troubleshooting/#jekyll--macos
+# 
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -29,7 +34,7 @@ plugins:
   - jekyll-feed
 
 # Google Analytics
-google_analytics: UA-174501016-1
+google_analytics: G-NHKQ96MDCP #UA-174501016-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

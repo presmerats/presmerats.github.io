@@ -14,7 +14,7 @@ In this post I'm showing a small data visualization that I created in a google s
 
 <div style="text-align: center"><iframe  width="700" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSonTt1xJEUiY2NI357IgbYd73p21KchktroqqIvBblRvPYttTnVicDxef2OC2nmZWco8pSa9v0CY8X/pubchart?oid=760040628&format=interactive" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" scrolling="no"></iframe></div>
 
-<div style="text-align: center"><iframe width="700" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSonTt1xJEUiY2NI357IgbYd73p21KchktroqqIvBblRvPYttTnVicDxef2OC2nmZWco8pSa9v0CY8X/pubchart?oid=2039949862&format=interactive" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" scrolling="no"></iframe></div>
+<div style="text-align: center"><iframe width="100%" height="300px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSonTt1xJEUiY2NI357IgbYd73p21KchktroqqIvBblRvPYttTnVicDxef2OC2nmZWco8pSa9v0CY8X/pubchart?oid=2039949862&format=interactive" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" scrolling="no"></iframe></div>
 
 
 
