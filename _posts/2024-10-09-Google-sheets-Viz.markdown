@@ -29,7 +29,7 @@ In this post I'm showing a small data visualization that I created in a google s
 </div>
 
 
-Stay tuned for the detailed walk-througth!
+Stay tuned for the detailed walkthrough!
 
 
 
